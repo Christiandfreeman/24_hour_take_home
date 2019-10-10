@@ -1,1 +1,1 @@
-# 24_hour_take_home
+Predict the chrun of a customer using a small amount of data.
